@@ -21,9 +21,7 @@ Installation
 Viewing the project
 -------------------
 
-```
-heroku open
-```
+View `http://mol-test.herokuapp.com/home/index.html`
 
 Running locally
 ---------------
