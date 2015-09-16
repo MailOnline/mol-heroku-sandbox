@@ -23,6 +23,9 @@ Viewing the project
 
 View `http://mol-test.herokuapp.com/home/index.html`
 
+The project is locked by basic auth. To discover the username and password run:
+`heroku config` and look out for the variables `USERNAME` and `PASSWORD`.
+
 Running locally
 ---------------
 
