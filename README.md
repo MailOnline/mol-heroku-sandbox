@@ -1,7 +1,7 @@
 Heroku MOL test
 ===============
 
-| A static sandbox for MOL integration
+> A static sandbox for MOL integration
 
 This a **free** solution for both MOL developers and external developers to
 develop solutions together.
